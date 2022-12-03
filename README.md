@@ -1,0 +1,2 @@
+# zizkarna
+web, admin
