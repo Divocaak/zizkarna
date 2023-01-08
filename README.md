@@ -9,6 +9,10 @@ web, admin
     - screen in center of area
       - upcoming 3 events (from db)
    - loading animation on load
+   - [ ] programme
+      - first thing to do and launch under wordpress page
+      - qr code (print on posters?)
+      - table with events, calendar
 - admin
   - forms (add/edit) in modal => better UX (speed in administration)
   - contacts table
