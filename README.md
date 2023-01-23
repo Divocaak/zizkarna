@@ -1,7 +1,11 @@
 # zizkarna
-web, admin
+web, admin, lineup page
+react + php controller, model, view architecture
 
-- web
+## lineup page
+TODO
+
+## web
   - one page
   - area graphics with inherited button links
     - onclick - move/zoom in map
@@ -13,7 +17,7 @@ web, admin
       - first thing to do and launch under wordpress page
       - qr code (print on posters?)
       - table with events, calendar
-- admin
+## admin
   - forms (add/edit) in modal => better UX (speed in administration)
   - contacts table
     - bands
